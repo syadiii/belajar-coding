@@ -1,1 +1,4 @@
 # belajar-coding
+javascript
+python
+
